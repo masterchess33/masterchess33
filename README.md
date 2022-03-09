@@ -1,6 +1,6 @@
 - 👋 Hola, soy @masterchess33.
 - 👀 Estoy interesado en Java y .NET.
-- 🌱 Estoy aprendiendo java + spring boot.
+- 🌱 Estoy aprendiendo Asp.net core.
 
 
 <!---
