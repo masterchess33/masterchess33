@@ -1,7 +1,7 @@
-- 👋 Hola, soy @masterchess33.
-- 👀 Estoy interesado en Java y .NET.
-- 🌱 Estoy aprendiendo Asp.net core.
-
+- 👋 Hi, I'm @masterchess33.
+- 👀 I'm interested in .NET and back-end development in general.
+- 🌱 I’m invested in Asp.net core and the technology that surround it.
+- 🌱 Also I’m interested in Rust.
 
 <!---
 masterchess33/masterchess33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
